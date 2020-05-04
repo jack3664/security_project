@@ -9,7 +9,7 @@ function submitPassword() {
 
 function showAdminPopUp() {
   var response = window.prompt(
-    "Requires Admin Password (hint: I love da Vigenere!)"
+    "Requires Admin Password \n(hint: I love da Vigenere! Password-Security)"
   );
   if (response == "heumnwkb") {
     alert("Yes");
