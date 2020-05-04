@@ -1,17 +1,49 @@
 .mat_style {
   position: absolute;
   top: 375px;
-  left: 365px
+  left: 365px;
 }
 
 .key_style {
   position: absolute;
   top: 458px;
-  left:365px;
+  left: 365px;
 }
 
 .laptop_style {
   position: absolute;
   top: 440px;
   left: 420px;
+}
+
+#passwordInput {
+  position: absolute;
+  top: 345px;
+  left: 436px;
+}
+
+#passwordSubmit {
+  position: absolute;
+  top: 345px;
+  left: 575px;
+  background: transparent;
+  border: none;
+  color: transparent;
+  cursor: pointer;
+}
+
+#bg {
+  position: absolute;
+  left: 76px;
+  top: 45px;
+  width: 865px;
+  height: 565px;
+}
+
+#folder {
+  position: absolute;
+  left: 800px;
+  top: 60px;
+  color: white;
+  cursor: pointer;
 }
