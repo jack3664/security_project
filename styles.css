@@ -56,6 +56,13 @@
   width: 50%;
 }
 
+#sqlLogin{
+  position: absolute;
+  position: absolute;
+  top: 375px;
+  left: 410px;
+}
+
 #goto_website {
   position: absolute;
   top: 3000px;

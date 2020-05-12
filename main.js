@@ -16,6 +16,10 @@ function sqlInjection(){
   }
 }
 
+function getHelp(){
+  alert("1=1")
+}
+
 function showAdminPopUp() {
   var response = window.prompt(
     "Requires Admin Password \n(hint: I love da Vigenere! Password-Security)"
